@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/zigzeug/Desktop/TD ING1 Maths Appliquees/automate/Data_a_tranferer/Projet C - AEF/Etape_0_Generer_1_AEF/readFile'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _readFile, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x2F0 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _readFile, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x2F0 }
+  - { offsetInCU: 0xFF, offset: 0xFF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2F0, symBinAddr: 0x100003F30, symSize: 0xF }
+...

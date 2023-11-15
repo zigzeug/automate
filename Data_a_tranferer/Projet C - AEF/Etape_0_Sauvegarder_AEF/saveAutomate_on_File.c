@@ -38,6 +38,7 @@ void affiche(int **m, int ligne, int colonne)
     FILE *fichier; // Déclaration d'un pointeur de type FILE
     fichier = fopen("donnees.txt", "a");
 
+    
     fprintf(fichier, "   ");
     for (int i = 0; i < ligne; i++)
     {

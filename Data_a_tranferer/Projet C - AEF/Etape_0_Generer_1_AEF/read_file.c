@@ -17,7 +17,7 @@ int main()
     if (fichier == NULL)
     {
         printf("Impossible d'ouvrir le fichier.\n");
-        return 1; // Quitte le programme avec une erreur
+        return 1; // Quitte le programme avec une erreur 
     }
 
     int numeroLigne = 0;
@@ -39,7 +39,7 @@ int main()
 
     // Maintenant, vous avez les lignes stockées dans le tableau 'lignes'
     // Vous pouvez accéder aux lignes avec leurs numéros comme suit :
-    for (int i = 0; i < numeroLigne - 1; i++)
+    for (int i = 0; i < numeroLigne; i++)
     {
         printf("Ligne %d : %s", lignes[i].numeroLigne, lignes[i].contenu);
     }
