@@ -1,0 +1,9 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/zigzeug/Desktop/TD ING1 Maths Appliquees/automate/Data_a_tranferer/Projet C - AEF/Etape_0_Sauvegarder_AEF/saveAutomate_on_File'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _saveAutomateOnFile, symObjAddr: 0x0, symBinAddr: 0x100003BF0, symSize: 0x120 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _saveAutomateOnFile, symObjAddr: 0x0, symBinAddr: 0x100003BF0, symSize: 0x120 }
+  - { offsetInCU: 0xD9, offset: 0xD9, size: 0x8, addend: 0x0, symName: _affiche, symObjAddr: 0x120, symBinAddr: 0x100003D10, symSize: 0x150 }
+  - { offsetInCU: 0x197, offset: 0x197, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x270, symBinAddr: 0x100003E60, symSize: 0x3E }
+...
